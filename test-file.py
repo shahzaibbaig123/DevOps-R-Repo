@@ -1,1 +1,1 @@
-print "Welcome to CS213 by Mirza Shahzaib Baig"
+print("Welcome to CS213 by Mirza Shahzaib Baig")
